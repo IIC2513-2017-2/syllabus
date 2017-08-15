@@ -10,7 +10,6 @@
 * [Proyectos](#proyectos)
 * [Wiki](#wiki)
     * [Getting Started](#getting-started)
-    * [Gemas](#gemas)
 * [Foro](#foro)
     * [Etiquetas](#etiquetas)
     * [Procedimiento](#procedimiento)
