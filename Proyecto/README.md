@@ -10,24 +10,24 @@ Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará
 
 | Equipo  | Proyecto | Ayudante |
 |:-------------------- |:---------------------------| :------|
-| StressedOctopus | Panora+app |  |
-| global_vars | Panora+app |  |
 | FlorAndrés | ShareMyModel |  |
 | Banlassa | ShareMyModel |  |
-| webcrushers | ¿Jugamos? |  |
+| StressedOctopus | Panora+app |  |
+| global_vars | Panora+app |  |
+| nsjs | Panora+App |  |
 | webmuffins | Perros en la calle |  |
 | Los ChiquiWeb | Perros en la calle |  |
-| Games & Coffee | Cyber-help |  |
-| nsjs | Panora+App |  |
+| Potatas | Perros en la calle |  |
+| webcrushers | ¿Jugamos? |  |
 | Frandz | ¿Jugamos? |  |
+| kame-house | ¿Jugamos? |  |
+| Jugamos? | ¿Jugamos? |  |
+| Games & Coffee | Cyber-help |  |
 | SGLabs | Fundamentals Ing |  |
 | bellakoz | Fundamentals Ing |  |
 | Auperin | Fundamentals Ing |  |
 | Grupo 100 | Fundamentals Ing |  |
 | Weird Bugs | Fundamentals Ing |  |
-| kame-house | ¿Jugamos? |  |
-| Potatas | Perros en la calle |  |
-| Jugamos? | ¿Jugamos? |  |
 
 ## Entregas
 
@@ -35,7 +35,7 @@ Las entregas tendrán una duración de 2 semanas cada una, aunque es posible que
 
 Las fechas límite **tentativas** (podrían cambiar durante el semestre, en cuyo caso las iremos actualizando aquí) de cada entrega son las siguientes:
 
-* Entrega 1: 31 de agosto a las 21:59:59.999
+* [Entrega 1](enunciados/Entrega1.md): 31 de agosto a las 21:59:59.999
 * Entrega 2: 14 de septiembre a las 21:59:59.999
 * Entrega 3: 28 de septiembre a las 21:59:59.999
 * Entrega 4: 12 de octubre a las 21:59:59.999
