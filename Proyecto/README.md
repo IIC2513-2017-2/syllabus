@@ -8,9 +8,26 @@ Los enunciados dan la línea general de la funcionalidad que deben implementar, 
 
 Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará durante el semestre. Las asignaciones de proyecto y ayudante estarán detalladas aquí prontamente.
 
-Equipo  | Proyecto | Ayudante
+| Equipo  | Proyecto | Ayudante |
 |:-------------------- |:---------------------------| :------|
-||||
+| StressedOctopus | Panora+app |  |
+| global_vars | Panora+app |  |
+| FlorAndrés | ShareMyModel |  |
+| Banlassa | ShareMyModel |  |
+| webcrushers | ¿Jugamos? |  |
+| webmuffins | Perros en la calle |  |
+| Los ChiquiWeb | Perros en la calle |  |
+| Games & Coffee | Cyber-help |  |
+| nsjs | Panora+App |  |
+| Frandz | ¿Jugamos? |  |
+| SGLabs | Fundamentals Ing |  |
+| bellakoz | Fundamentals Ing |  |
+| Auperin | Fundamentals Ing |  |
+| Grupo 100 | Fundamentals Ing |  |
+| Weird Bugs | Fundamentals Ing |  |
+| kame-house | ¿Jugamos? |  |
+| Potatas | Perros en la calle |  |
+| Jugamos? | ¿Jugamos? |  |
 
 ## Entregas
 
