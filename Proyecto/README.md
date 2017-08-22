@@ -10,24 +10,27 @@ Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará
 
 | Equipo  | Proyecto | Ayudante |
 |:-------------------- |:---------------------------| :------|
-| FlorAndrés | ShareMyModel |  |
-| Banlassa | ShareMyModel |  |
-| StressedOctopus | Panora+app |  |
-| global_vars | Panora+app |  |
-| nsjs | Panora+App |  |
-| webmuffins | Perros en la calle |  |
-| Los ChiquiWeb | Perros en la calle |  |
-| Potatas | Perros en la calle |  |
-| webcrushers | ¿Jugamos? |  |
-| Frandz | ¿Jugamos? |  |
-| kame-house | ¿Jugamos? |  |
-| Jugamos? | ¿Jugamos? |  |
-| Games & Coffee | Cyber-help |  |
-| SGLabs | Fundamentals Ing |  |
-| bellakoz | Fundamentals Ing |  |
-| Auperin | Fundamentals Ing |  |
-| Grupo 100 | Fundamentals Ing |  |
-| Weird Bugs | Fundamentals Ing |  |
+| FlorAndrés | [ShareMyModel](https://drive.google.com/open?id=1dY4B80R28IRAb3ZUwHkshLUQwbfzxBzKXPRA91kg-WY) | Pedro |
+| Banlassa | [ShareMyModel](https://drive.google.com/open?id=1dY4B80R28IRAb3ZUwHkshLUQwbfzxBzKXPRA91kg-WY) | Pedro |
+| StressedOctopus | [Panora+app](https://drive.google.com/open?id=1jxvqPR7SB3WUl38yNegza796F7JAb9PfbsNYfAEr_QU) | Felipe |
+| global_vars | [Panora+app](https://drive.google.com/open?id=1jxvqPR7SB3WUl38yNegza796F7JAb9PfbsNYfAEr_QU) | Felipe |
+| The Western Bad Men | [Panora+app](https://drive.google.com/open?id=1jxvqPR7SB3WUl38yNegza796F7JAb9PfbsNYfAEr_QU) | Felipe |
+| nsjs | [Panora+app](https://drive.google.com/open?id=1jxvqPR7SB3WUl38yNegza796F7JAb9PfbsNYfAEr_QU) | Felipe |
+| webmuffins | [Perros en la calle](https://drive.google.com/open?id=1ZIrTJKB3pC4To5XJv9ZW1YPxYNsgLYiukBPW41LnXi8) | Pedro |
+| Los ChiquiWeb | [Perros en la calle](https://drive.google.com/open?id=1ZIrTJKB3pC4To5XJv9ZW1YPxYNsgLYiukBPW41LnXi8) | Pedro |
+| Potatas | [Perros en la calle](https://drive.google.com/open?id=1ZIrTJKB3pC4To5XJv9ZW1YPxYNsgLYiukBPW41LnXi8) | Pedro |
+| webcrushers | [¿Jugamos?](https://drive.google.com/open?id=1yCzbIv0uEsn9Nf6VYZiUW2S1XB8ZdQ7poVVToRqbHog) | Nicolás |
+| Frandz | [¿Jugamos?](https://drive.google.com/open?id=1yCzbIv0uEsn9Nf6VYZiUW2S1XB8ZdQ7poVVToRqbHog) | Nicolás |
+| kame-house | [¿Jugamos?](https://drive.google.com/open?id=1yCzbIv0uEsn9Nf6VYZiUW2S1XB8ZdQ7poVVToRqbHog) | Nicolás |
+| Jugamos? | [¿Jugamos?](https://drive.google.com/open?id=1yCzbIv0uEsn9Nf6VYZiUW2S1XB8ZdQ7poVVToRqbHog) | Nicolás |
+| Games & Coffee | [Cyber-help](https://drive.google.com/open?id=1U1UBbjhmpPxCNNYDwwcYLycmCh89roeL_6L7MyJONVo) | Nicolás |
+| SGLabs | [Fundamentals Ing](https://drive.google.com/open?id=1pNJvtC8E6WSaD4Ck7ZI5OjqIIaqYXKt0xOU2X6XWwxY) | Rodolfo |
+| bellakoz | [Fundamentals Ing](https://drive.google.com/open?id=1pNJvtC8E6WSaD4Ck7ZI5OjqIIaqYXKt0xOU2X6XWwxY) | Rodolfo |
+| Auperin | [Fundamentals Ing](https://drive.google.com/open?id=1pNJvtC8E6WSaD4Ck7ZI5OjqIIaqYXKt0xOU2X6XWwxY) | Rodolfo |
+| Grupo 100 | [Fundamentals Ing](https://drive.google.com/open?id=1pNJvtC8E6WSaD4Ck7ZI5OjqIIaqYXKt0xOU2X6XWwxY) | Rodolfo |
+| Weird Bugs | [Fundamentals Ing](https://drive.google.com/open?id=1pNJvtC8E6WSaD4Ck7ZI5OjqIIaqYXKt0xOU2X6XWwxY) | Rodolfo |
+
+Pueden ver los datos para poder contactar a su ayudante en el [programa del curso](../../../#equipo)
 
 ## Entregas
 
