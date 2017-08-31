@@ -26,12 +26,12 @@
 
 ### Ayudantes
 
-| Nombre                | Github        | Email         |
-|:--------------------- |:--------------|:--------------|
-| Pedro Aste            | [@wachunei](https://github.com/wachunei)          | ppaste@uc.cl    |
-| Nicolás Gebauer       | [@negebauer](https://github.com/negebauer)        | negebauer@uc.cl |
-| Rodolfo Palma         | [@rpalmaotero](https://github.com/rpalmaotero)    | rdpalma@uc.cl   |
-| Felipe Pezoa          | [@MainScientist](https://github.com/MainScientist)| fipezoa@uc.cl   |
+| Nombre                | Github        | Email         | Telegram      |
+|:--------------------- |:--------------|:--------------|:--------------|
+| Pedro Aste            | [@wachunei](https://github.com/wachunei)          | ppaste@uc.cl    | |
+| Nicolás Gebauer       | [@negebauer](https://github.com/negebauer)        | negebauer@uc.cl | [@negebauer](https://t.me/negebauer) |
+| Rodolfo Palma         | [@rpalmaotero](https://github.com/rpalmaotero)    | rdpalma@uc.cl   | |
+| Felipe Pezoa          | [@MainScientist](https://github.com/MainScientist)| fipezoa@uc.cl   | |
 
 ## Objetivos
 
