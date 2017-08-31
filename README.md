@@ -28,7 +28,7 @@
 
 | Nombre                | Github        | Email         | Telegram      |
 |:--------------------- |:--------------|:--------------|:--------------|
-| Pedro Aste            | [@wachunei](https://github.com/wachunei)          | ppaste@uc.cl    | |
+| Pedro Aste            | [@wachunei](https://github.com/wachunei)          | ppaste@uc.cl    | [@wachunei](https://t.me/wachunei)|
 | Nicolás Gebauer       | [@negebauer](https://github.com/negebauer)        | negebauer@uc.cl | [@negebauer](https://t.me/negebauer) |
 | Rodolfo Palma         | [@rpalmaotero](https://github.com/rpalmaotero)    | rdpalma@uc.cl   | |
 | Felipe Pezoa          | [@MainScientist](https://github.com/MainScientist)| fipezoa@uc.cl   | |
