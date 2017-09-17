@@ -40,8 +40,8 @@ Las fechas límite **tentativas** (podrían cambiar durante el semestre, en cuyo
 
 * [Entrega 1](enunciados/Entrega1.md): 31 de agosto a las 21:59:59.999
 * [Entrega 2](enunciados/Entrega2.md): 15 de septiembre a las 21:59:59.999
-* Entrega 3: 28 de septiembre a las 21:59:59.999
-* Entrega 4: 12 de octubre a las 21:59:59.999
+* [Entrega 3](enunciados/Entrega3.md): 4 de octubre a las 21:59:59.999
+* Entrega 4: 18 de octubre a las 21:59:59.999
 * Entrega 5: 2 de noviembre a las 21:59:59.999
 * Entrega 6: 17 de noviembre a las 21:59:59.999
 * Demo final: 30 de noviembre
