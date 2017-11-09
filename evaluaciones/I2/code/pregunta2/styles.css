@@ -1,0 +1,62 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+nav {
+  width: 300px;
+  font-size: 25px;
+  border: 1px solid #555;
+}
+
+nav a {
+  display: block;
+  background: #ddd;
+  padding: 20px;
+  border-bottom: 1px solid #555;
+  text-decoration: none;
+  color: #333;
+}
+
+nav > a:last-child {
+  border: none;
+}
+
+nav > div {
+  position: relative;
+}
+
+nav .sub-menu {
+  display: none;
+  border: 1px solid #555;
+  border-left: none;
+}
+
+nav > div:hover .sub-menu {
+  display: block;
+}
+
+.sub-menu a:last-child {
+  border: none;
+}
+
+.sub-menu {
+  font-size: 20px;
+  position: absolute;
+  left: 301px;
+  top: -1px;
+  width: 200px;
+}
+
+.sub-menu a {
+  background: #eee;
+}
+
+nav a:hover, nav > div:hover > a {
+  background: #555;
+  color: white;
+}
+
+nav a span {
+  position: absolute;
+  right: 10px;
+}
