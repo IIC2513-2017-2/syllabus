@@ -1,0 +1,12 @@
+.votes-count {
+  padding: 20px;
+}
+
+.votes-count label {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.votes-count label input {
+  margin-left: 15px;
+}
