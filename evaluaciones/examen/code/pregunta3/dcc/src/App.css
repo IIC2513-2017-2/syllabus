@@ -1,0 +1,62 @@
+body {
+  padding: 20px;
+}
+
+nav ul, nav li, main ul, main li {
+  padding: 0;
+  list-style: none;
+}
+
+#container {
+  display: flex;
+}
+
+nav {
+  flex: auto;
+}
+
+nav li {
+  border: 1px solid #aaa;
+  margin-bottom: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+  text-align: right;
+}
+
+main {
+  flex: auto;
+  margin: 0 20px;
+}
+
+main li {
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+main li h2 {
+  margin-top: 0;
+}
+
+main a {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+main li .price {
+  font-size: 0.7em;
+  font-weight: normal;
+  margin-left: 20px;
+}
+
+#cart {
+  flex: auto;
+  width: 30%;
+}
