@@ -1,37 +1,4 @@
-## Tabla de contenidos
-* [Programa](#programa)
-    * [Equipo](#equipo)
-    * [Objetivos](#objetivos)
-    * [Contenidos](#contenidos)
-    * [Metodología](#metodología)
-    * [Evaluación](#evaluación)
-    * [Bibliografía](#bibliografía)
-    * [Política de integridad académica](#política-de-integridad-académica)
-* [Proyectos](#proyectos)
-* [Wiki](#wiki)
-    * [Getting Started](#getting-started)
-* [Foro](#foro)
-    * [Etiquetas](#etiquetas)
-    * [Procedimiento](#procedimiento)
-
-# Programa
-
-## Equipo
-
-### Profesor
-
-| Nombre               | Github        |  Email         |
-|:-------------------- |:--------------| :--------------|
-| Raúl Montes          |  [@raulmt](https://github.com/raulmt)| raulmt@gmail.com |
-
-### Ayudantes
-
-| Nombre                | Github        | Email         | Telegram      |
-|:--------------------- |:--------------|:--------------|:--------------|
-| Pedro Aste            | [@wachunei](https://github.com/wachunei)          | ppaste@uc.cl    | [@wachunei](https://t.me/wachunei)|
-| Nicolás Gebauer       | [@negebauer](https://github.com/negebauer)        | negebauer@uc.cl | [@negebauer](https://t.me/negebauer) |
-| Rodolfo Palma         | [@rpalmaotero](https://github.com/rpalmaotero)    | rdpalma@uc.cl   | |
-| Felipe Pezoa          | [@MainScientist](https://github.com/MainScientist)| fipezoa@uc.cl   | |
+# Programa IIC2513 – Tecnologías y Aplicaciones Web
 
 ## Objetivos
 
@@ -127,48 +94,3 @@ Durante el semestre podrían haber evaluaciones y/o acividades, con o sin previo
 Los alumnos de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad. En particular, se espera que mantengan altos estándares de honestidad académica. Cualquier acto deshonesto o fraude académico está prohibido; los alumnos que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada alumno conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería en el SIDING
 Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoria- mente la siguiente política de integridad académica. Todo trabajo presentado por un alumno para los efectos de la evaluación de un curso debe ser hecho individualmente por el alumno, sin apoyo en material de terceros. Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros. Si un alumno copia un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Pregrado de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral. Por “copia” se entiende incluir en el trabajo presentado como propio partes hechas por otra persona
 Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente. Lo anterior se entiende como complemento al Reglamento del Alumno de la Pontificia Universidad Católica de Chile Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
-
-# Proyectos
-
-Pueden encontrar toda la información relacionada a los proyectos en la [sección correspondiente](Proyecto).
-
-# Wiki
-Tendremos mucha información útil en la Wiki del curso, la cual pueden encontrar en el menú superior o haciendo clic [aquí](../../wiki).
-
-## Getting Started
-En particular, les sugerimos revisar [esta sección](../../wiki/Getting-Started) en la wiki antes de comenzar con su proyecto.
-
-# Foro
-
-La página de [Issues](../../issues) se utilizará como foro para preguntas.
-
-## Etiquetas
-
-Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categorías](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/) para mantener el orden y facilitar la búsqueda de problemas similares. Una entrada puede tener múltiples etiquetas. Aunque el equipo docente irá etiquetando según corresponda, también puedes adelantarte y clasificar tu progunta en [la(s) categoría(s) que correspondan](../../labels):
-
-* [Material](../../labels/Material): para discutir sobre el material entregado por el equipo docente.
-* [Código](../../labels/C%C3%B3digo): sobre métodos, clases, sintaxis, estándares, etc.
-* [Enunciado o Entrega](../../labels/Enunciado%20o%20Entrega): sobre el enunciado o situación relacionada a alguna entrega de proyecto.
-* [Interrogación](../../labels/Interrogaci%C3%B3n): sobre fechas, contenido, recorreción de interrogaciones, etc.
-* [Materia](../../labels/Materia): sobre conceptos y/o temas vistos en clases o fuera de éstas.
-* [Duplicada](../../labels/Duplicada): pregunta repetida, se hará referencia a la pregunta original.
-* [Packages](../../labels/Packages): Consultas acerca de si se puede utilizar cierto package que no está explícitamente indicado en la Wiki.
-* [Git](../../labels/Git): Preguntas relacionadas con `git`
-* [Inválida](../../labels/Inv%C3%A1lida): la pregunta no cumple los estándares o viola el procedimiento descrito abajo.
-* [Meta-pregunta](../../labels/Meta-pregunta): pregunta sobre cómo y qué preguntar.
-* [Tengo un error](../../labels/Tengo%20un%20error): para preguntar sobre errores o bugs en códigos antes de caer en la desesperación (pero luego de haber buscado apropiadamente en la Web...).
-
-## Procedimiento
-
-Antes de postear:
-* Busca en Internet para encontrar la solución.
-* Si pasan horas y el problema persiste, entra a [Issues](../../issues).
-* Busca si alguien tiene la misma pregunta o problema.
-	* Si encuentras un post marcado como resuelto, pero no te satisface la respuesta, puedes comentar la issue y **volver a abrirla**.
-* En caso de no encontrar un post que te sirva, lo creas presionando **[New issue](../../issues/new)**.
-* Escribe una entrada **explicando bien el problema o pregunta**.
-* Publica.
-
-Tanto al publicar como comentar, debes atenerte a las **normas del curso**. Además, debes utilizar **[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)** cuando sea necesario. Por ejemplo, cuando se necesita mostrar código o mensajes de error.
-
-Una vez resuelto el problema, da las **gracias** y **cierra el issue** :smiley:.
